@@ -1,5 +1,5 @@
 # Ruang-belajar
 Contributor:
 
-- `<yourname> - <id>`
+- `nur arifin - FE2730718`
 - Bob
